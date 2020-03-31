@@ -1,0 +1,5 @@
+{
+  "apiUrl": "http://api.goresult.ru",
+  "useFakeApiByDefault": true,
+  "fakeEndPoints": ["Sample"]
+}
